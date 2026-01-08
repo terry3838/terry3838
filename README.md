@@ -168,7 +168,7 @@ graph LR
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=terry3838&show_icons=true&theme=transparent&hide_border=true&title_color=2c3e50&text_color=2c3e50&icon_color=3498db&bg_color=00000000" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=terry3838&theme=transparent&hide_border=true&ring=3498db&fire=2c3e50&currStreakLabel=2c3e50&sideLabels=2c3e50&dates=2c3e50" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=terry3838&theme=transparent&hide_border=true&ring=3498db&fire=2c3e50&currStreakLabel=2c3e50&sideLabels=2c3e50&dates=2c3e50" width="48%" />
 
 <br><br>
 
