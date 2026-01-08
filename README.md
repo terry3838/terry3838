@@ -153,7 +153,7 @@ graph LR
 | **패스트캠퍼스 AI 스타트업 창업 부트캠프** | 2025.06 ~ | ![Progress](https://img.shields.io/badge/진행중-3498db?style=flat-square) |
 | **AI + 명리학 결합 서비스 개발** | MVP 개발 중 | ![Progress](https://img.shields.io/badge/진행중-3498db?style=flat-square) |
 | **PO/PM 커리어 전환** | 역량 강화 중 | ![Progress](https://img.shields.io/badge/진행중-3498db?style=flat-square) |
-| **PO/PM** | 앱스토어 모바일 앱 출시 - AI 기반 감정 가계부 | https://apps.apple.com/us/app/cloverly-감정-가계부/id6757151372
+| **Cloverly 감정 가계부** | [App Store 출시](https://apps.apple.com/us/app/cloverly-감정-가계부/id6757151372) | ![Complete](https://img.shields.io/badge/완료-2c3e50?style=flat-square) |
 
 <div align="center">
 
@@ -163,15 +163,16 @@ graph LR
 
 ---
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> GitHub Stats
+## 🏆 Certifications
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=terry3838&theme=flat&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/terry3838)
+![AWS](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-RHCE-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
-<br>
-
-![terry3838's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=terry3838&show_icons=true&theme=transparent&hide_border=true&title_color=2c3e50&text_color=2c3e50&icon_color=3498db)
+![Red Hat](https://img.shields.io/badge/Red_Hat-RHCVA-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-OCP_10G-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 </div>
 
@@ -199,7 +200,7 @@ graph LR
 
 <br>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fterry3838&count_bg=%232c3e50&title_bg=%233498db&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false)
+![Profile Views](https://komarev.com/ghpvc/?username=terry3838&color=2c3e50&style=flat-square&label=Profile+Views)
 
 </div>
 
