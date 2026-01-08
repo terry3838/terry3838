@@ -151,9 +151,9 @@ graph LR
 | 영역 | 진행 상황 | 상태 |
 |:---|:---|:---:|
 | **패스트캠퍼스 AI 스타트업 창업 부트캠프** | 2025.06 ~ | ![Progress](https://img.shields.io/badge/진행중-3498db?style=flat-square) |
-| **한국방송통신대학교 컴퓨터과학과** | 재학 중 | ![Progress](https://img.shields.io/badge/진행중-3498db?style=flat-square) |
 | **AI + 명리학 결합 서비스 개발** | MVP 개발 중 | ![Progress](https://img.shields.io/badge/진행중-3498db?style=flat-square) |
 | **PO/PM 커리어 전환** | 역량 강화 중 | ![Progress](https://img.shields.io/badge/진행중-3498db?style=flat-square) |
+| **PO/PM** | 앱스토어 모바일 앱 출시 - AI 기반 감정 가계부 | https://apps.apple.com/us/app/cloverly-감정-가계부/id6757151372
 
 <div align="center">
 
