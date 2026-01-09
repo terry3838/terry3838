@@ -150,7 +150,7 @@ graph LR
 
 | 영역 | 진행 상황 | 상태 |
 |:---|:---|:---:|
-| **패스트캠퍼스 AI 스타트업 창업 부트캠프** | 2025.06 ~ | ![Progress](https://img.shields.io/badge/진행중-3498db?style=flat-square) |
+| **패스트캠퍼스 AI 스타트업 창업 부트캠프** | 2025.06 ~ | ![Progress](https://img.shields.io/badge/완료-3498db?style=flat-square) |
 | **AI + 명리학 결합 서비스 개발** | MVP 개발 중 | ![Progress](https://img.shields.io/badge/진행중-3498db?style=flat-square) |
 | **PO/PM 커리어 전환** | 역량 강화 중 | ![Progress](https://img.shields.io/badge/진행중-3498db?style=flat-square) |
 | **Cloverly 감정 가계부** | [App Store 출시](https://apps.apple.com/us/app/cloverly-감정-가계부/id6757151372) | ![Complete](https://img.shields.io/badge/완료-2c3e50?style=flat-square) |
