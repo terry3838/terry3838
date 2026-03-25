@@ -1,12 +1,12 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:3498db&height=230&section=header&text=Terry%20Kim&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=기술로%20나를%20읽고,%20통찰로%20미래를%20쓴다&descAlignY=55&descAlign=50&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:3498db&height=230&section=header&text=Terry%20Kim&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=기술을%20깊이%20아는%20사람이,%20고객에게%20진짜%20필요한%20솔루션을%20제안합니다&descAlignY=55&descAlign=50&descSize=16)
 
 <div align="center">
 
 # 안녕하세요, 김태리(Terry)입니다 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-**17년 클라우드 인프라 엔지니어 → 지금은 PM/PO 전환 중**
+**17년 클라우드 인프라 엔지니어 → Technical Pre-Sales · AI로 전환 중**
 
-**17년 B2B 클라우드 인프라 엔지니어** | **Product Owner/PM 전환 중** | **AI x 자기이해 서비스 개발자**
+**17년 B2B 클라우드 인프라 엔지니어** | **Technical Pre-Sales · Solution Consulting** | **AI 실전 경험자**
 
 </div>
 
@@ -14,15 +14,15 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-<img align="right" src="https://img.shields.io/badge/기술로_자기_이해를_돕는-퍼스널_브랜딩_코치-2c3e50?style=for-the-badge&labelColor=3498db" />
+<img align="right" src="https://img.shields.io/badge/기술과_비즈니스를_잇는-Technical_Pre--Sales-2c3e50?style=for-the-badge&labelColor=3498db" />
 
 인프라 일을 17년 하다 보니 어느 순간 이런 생각이 들었습니다.
-"시스템은 꽤 잘 설계하는데, 정작 내 삶은 어떤 구조로 살고 있지?"
+"시스템은 꽤 잘 설계하는데, 정작 고객에게 필요한 걸 제안하는 사람은 따로 있더라고."
 
-그래서 커리어도 더 나은 방향으로 옮기기로 했습니다.
+그래서 커리어를 Technical Pre-Sales 방향으로 옮기기로 했습니다.
 
-요즘은 AI와 명리학을 연결해서 사람들이 자기 자신을 더 잘 이해할 수 있는 서비스를 만들고 있습니다.
-이상하게 들릴 수도 있는데, 생각해보면 둘 다 결국 '패턴을 읽는 일'이더라고요.
+AI와 명리학을 연결한 서비스를 직접 만들고 운영하면서 LLM, RAG, AI Agent가 실제로 어떻게 돌아가는지 몸으로 익혔습니다.
+지금은 그 경험을 바탕으로 고객에게 실현 가능한 AI 도입 방안을 설계하고 제안하는 일을 하고 싶습니다.
 
 ---
 
@@ -44,14 +44,14 @@
 </td>
 <td width="50%" valign="top">
 
-### To: Product Owner / PM
+### To: Technical Pre-Sales · AI
 ```
 2024 ~ Present
 ```
-- AI 스타트업 창업 부트캠프 참여
-- 사용자 중심 프로덕트 기획
-- AI + 명리학 결합 서비스 개발
-- 기술 경험을 살린 퍼스널 브랜딩 작업 중
+- 패스트캠퍼스 AI 스타트업 창업 부트캠프 수료
+- K-Fate RAG 기반 AI 서비스 PM & AI Engineer (MVP 완료)
+- Cloverly iOS 앱 PM (App Store 출시)
+- openclaw RAG 운세 프로젝트 개인 운용 중
 
 </td>
 </tr>
@@ -64,7 +64,7 @@ graph LR
     A[시스템 엔지니어] --> B[클라우드 아키텍트]
     B --> C[Tech Leader]
     C --> D[Product Owner]
-    D --> E[AI 서비스 창업자]
+    D --> E[Technical Pre-Sales · AI]
 
     style A fill:#2c3e50,color:#fff
     style B fill:#2c3e50,color:#fff
@@ -101,10 +101,10 @@ graph LR
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-### Currently Learning
+### AI / LLM
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-3498db?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Product Management](https://img.shields.io/badge/Product_Management-2c3e50?style=for-the-badge&logo=notion&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM·RAG·AI_Agent-3498db?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/Qdrant·Embedding-2c3e50?style=for-the-badge&logo=databricks&logoColor=white)
 
 </div>
 
@@ -149,14 +149,15 @@ graph LR
 
 | 영역 | 진행 상황 | 상태 |
 |:---|:---|:---:|
-| **패스트캠퍼스 AI 스타트업 창업 부트캠프** | 2025.06 ~ | ![Progress](https://img.shields.io/badge/완료-3498db?style=flat-square) |
-| **AI + 명리학 결합 서비스 개발** | MVP 개발 중 | ![Progress](https://img.shields.io/badge/진행중-3498db?style=flat-square) |
-| **PO/PM 커리어 전환** | 역량 강화 중 | ![Progress](https://img.shields.io/badge/진행중-3498db?style=flat-square) |
+| **패스트캠퍼스 AI 스타트업 창업 부트캠프** | 2025.06 – 2026.02 수료 | ![Complete](https://img.shields.io/badge/완료-2c3e50?style=flat-square) |
+| **K-Fate (RAG + 명리학 AI 서비스)** | MVP 완료 · 서비스 종료 (2026.02) | ![Complete](https://img.shields.io/badge/종료-7f8c8d?style=flat-square) |
+| **openclaw RAG 운세 프로젝트** | 개인 RAG 파이프라인으로 운용 중 | ![Progress](https://img.shields.io/badge/진행중-3498db?style=flat-square) |
+| **Technical Pre-Sales 커리어 전환** | 역량 강화 중 | ![Progress](https://img.shields.io/badge/진행중-3498db?style=flat-square) |
 | **Cloverly 감정 가계부** | [App Store 출시](https://apps.apple.com/us/app/cloverly-감정-가계부/id6757151372) | ![Complete](https://img.shields.io/badge/완료-2c3e50?style=flat-square) |
 
 <div align="center">
 
-> *"클라우드 시스템을 마이그레이션 하듯, 내 삶도 '자기 이해'라는 더 나은 시스템으로 옮기기로 결심했습니다."*
+> *"클라우드 시스템을 마이그레이션 하듯, 커리어도 더 나은 방향으로 옮깁니다. 17년의 기술 경험을 고객 가치로 번역하는 Pre-Sales가 목표입니다."*
 
 </div>
 
@@ -195,7 +196,7 @@ graph LR
 
 <div align="center">
 
-### "기술로 나를 읽고, 통찰로 미래를 쓴다"
+### "기술을 깊이 아는 사람이, 고객에게 진짜 필요한 솔루션을 제안할 수 있습니다"
 
 <br>
 
