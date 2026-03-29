@@ -4,9 +4,9 @@
 
 # 안녕하세요, 김태리(Terry)입니다 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-**17년 클라우드 인프라 엔지니어 → Technical Pre-Sales · AI로 전환 중**
+**클라우드 인프라 엔지니어 → Technical Pre-Sales · AI로 전환 중**
 
-**17년 B2B 클라우드 인프라 엔지니어** | **Technical Pre-Sales · Solution Consulting** | **AI 실전 경험자**
+**B2B 클라우드 인프라 엔지니어** | **Technical Pre-Sales · Solution Consulting** | **AI 실전 경험자**
 
 </div>
 
